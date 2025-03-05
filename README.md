@@ -9,10 +9,10 @@ Responsive UI: Built with React and CSS.
 Database Storage: MongoDB is used to store user details and preparation plans
 
 Technologies:
-Frontend: React (JavaScript) with Tailwind CSS
-Backend: Node.js with Express.js
-Database: MongoDB
-AI Integration: OpenAI API 
+Frontend: React (JavaScript) with CSS ,
+Backend: Node.js with Express.js , 
+Database: MongoDB , 
+AI Integration: OpenAI API , 
 Authentication: JWT-based authentication
 
 Usage:
