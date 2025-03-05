@@ -1,0 +1,96 @@
+/* Container Styling */
+.sql-container {
+    padding: 24px;
+  }
+  
+  /* Heading */
+  .sql-heading {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+  }
+  
+  /* Label */
+  .sql-label {
+    font-weight: 500;
+    display: block;
+    margin-bottom: 0.5rem;
+  }
+  
+  /* Input Fields */
+  .sql-input {
+    border: 1px solid #ccc;
+    padding: 8px;
+    width: 100%;
+    margin-bottom: 1rem;
+    border-radius: 4px;
+  }
+  
+  /* Button */
+  .sql-button {
+    background-color: #2563eb;
+    color: white;
+    padding: 10px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .sql-button:hover {
+    background-color: #1e40af;
+  }
+  
+  /* Error Message */
+  .sql-error {
+    color: #dc2626;
+    margin-top: 8px;
+  }
+  
+  /* Progress Bar */
+  .sql-progress-container {
+    width: 100%;
+    background-color: #d1d5db;
+    border-radius: 9999px;
+    height: 16px;
+    margin-top: 8px;
+    position: relative;
+  }
+  
+  .sql-progress-bar {
+    background-color: #10b981;
+    height: 100%;
+    border-radius: 9999px;
+    transition: width 0.5s ease;
+  }
+  
+  /* Concept Plan Container */
+  .sql-concept-plan {
+    display: flex;
+    overflow-x: auto;
+    gap: 16px;
+    padding: 16px;
+    border: 1px solid #d1d5db;
+    border-radius: 8px;
+    white-space: nowrap;
+  }
+  
+  /* Individual Question Box */
+  .sql-question {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #f3f4f6;
+    padding: 12px;
+    border-radius: 8px;
+  }
+  
+  .sql-checkbox {
+    width: 20px;
+    height: 20px;
+  }
+  
+  .sql-strikethrough {
+    text-decoration: line-through;
+    color: #6b7280;
+  }
+  
